@@ -1,0 +1,4 @@
+name: NoFall
+version: ${project.version}
+main: net.poweredbyhate.nofall.NoFall
+api-version: 1.13

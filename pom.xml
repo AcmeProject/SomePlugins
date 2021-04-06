@@ -15,6 +15,7 @@
         <module>GameModeSurvival</module>
         <module>GameModeSpectator</module>
         <module>GameModeAdventure</module>
+        <module>NoFall</module>
     </modules>
 
 </project>

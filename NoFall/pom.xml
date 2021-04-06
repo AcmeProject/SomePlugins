@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.poweredbyhate</groupId>
-    <artifactId>GameModeCreative</artifactId>
+    <artifactId>NoFall</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>GameModeCreative</name>
+    <name>NoFall</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

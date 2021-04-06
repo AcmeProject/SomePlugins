@@ -7,6 +7,7 @@ A collection of simple plugins designed to enhance your minecraft server.
 | GameModeCreative  | Set yourself to creative mode. | 
 | GameModeSpectator | Set yourself to spectator mode. | 
 | GameModeSurvival  | Set yourself to survival mode. | 
+| NoFall  | No damage if you fall | 
 
 | Todo | | | |
 | --- | --- | --- | --- |
@@ -17,6 +18,6 @@ A collection of simple plugins designed to enhance your minecraft server.
 | Fly | Kick | Feed | coords
 | Spawn | msg | Day | clear potion
 | Night | Sun | Rain | logout (kick)
-| No xplode | killall | suicide | nofall
+| No xplode | killall | suicide | ~~nofall~~
 | warps | home | whitelist | nodrops
 | join msgs | leave msgs | death coords | motd

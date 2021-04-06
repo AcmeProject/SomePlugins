@@ -1,4 +1,4 @@
 name: GameModeCreative
 version: ${project.version}
-main: net.poweredbuhate.gamemodecreative.GameModeCreative
+main: net.poweredbyhate.gamemodecreative.GameModeCreative
 api-version: 1.13

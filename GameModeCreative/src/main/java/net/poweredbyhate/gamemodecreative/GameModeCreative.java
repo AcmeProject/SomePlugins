@@ -1,4 +1,4 @@
-package net.poweredbuhate.gamemodecreative;
+package net.poweredbyhate.gamemodecreative;
 
 import org.bukkit.Bukkit;
 import org.bukkit.GameMode;
