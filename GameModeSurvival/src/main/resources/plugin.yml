@@ -1,0 +1,4 @@
+name: GameModeSurvival
+version: ${project.version}
+main: net.poweredbyhate.gamemodesurvival.GameModeSurvival
+api-version: 1.13

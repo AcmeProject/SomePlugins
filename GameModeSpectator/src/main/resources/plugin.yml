@@ -1,0 +1,4 @@
+name: GameModeSpectator
+version: ${project.version}
+main: net.poweredbyhate.gamemodespectator.GameModeSpectator
+api-version: 1.13

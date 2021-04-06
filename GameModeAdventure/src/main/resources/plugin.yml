@@ -1,0 +1,4 @@
+name: GameModeAdventure
+version: ${project.version}
+main: net.poweredbyhate.gamemodeadventure.GameModeAdventure
+api-version: 1.13
